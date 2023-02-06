@@ -5,6 +5,6 @@ def pattern(n):
         print("\n")
         
 
-pattern(6)
+pattern(22)
 
 input("Press any key on keyboard and press enter to exit")
